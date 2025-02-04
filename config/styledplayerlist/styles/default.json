@@ -1,0 +1,17 @@
+{
+  "style_name": "Default",
+  "update_tick_time": 20,
+  "list_header": [
+    "",
+    ""
+  ],
+  "list_footer": [
+    "",
+    "<green>%server:online% <gray>online",
+    "<gray>TPS: %server:tps_colored%</gray>",
+    "<gray>MSPT: %server:mspt_colored%</gray>",
+    "<gray>Ping: %player:ping_colored%ms</gray>",
+    ""
+  ],
+  "hidden_in_commands": false
+}

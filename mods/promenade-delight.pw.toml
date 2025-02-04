@@ -1,0 +1,13 @@
+name = "Promenade Delight"
+filename = "promenadedelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d6z3NXCV/versions/oZKCfji6/promenadedelight-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "8c846d57f8f233408f2649f005628c4cc7921adc395c5ad17dd4a487b71364b38978e4592fd7e1659304ac120f5b88c7f54fd39a3c244fc5de38f4ab62d6b219"
+
+[update]
+[update.modrinth]
+mod-id = "d6z3NXCV"
+version = "oZKCfji6"

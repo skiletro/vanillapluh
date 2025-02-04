@@ -1,0 +1,13 @@
+name = "VanillaPluh"
+author = "Skiletro"
+version = "1.4.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "70d2465fc0552443b6cf7e53581ab54a91a8dea8460f52bddde607b978ac07f2"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

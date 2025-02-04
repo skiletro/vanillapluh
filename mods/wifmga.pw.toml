@@ -1,0 +1,13 @@
+name = "whoops I forgot my glasses again"
+filename = "wifmga-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bd0qbro8/versions/iu24XAcc/wifmga-1.0.0.jar"
+hash-format = "sha512"
+hash = "b29b7c6d55bb20a5266a8f7c8c063a6d5dc6f66b400b5b37350c60411b02c42620da164e763e1ff243e5e8e4aa69eb25c1ae32bd441b3e1cc01280d09555b90d"
+
+[update]
+[update.modrinth]
+mod-id = "Bd0qbro8"
+version = "iu24XAcc"

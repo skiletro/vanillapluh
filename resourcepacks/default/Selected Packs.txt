@@ -1,0 +1,6 @@
+Vanilla Tweaks Resource Pack
+Version: 1.20
+Packs:
+	HermitcraftBaseSeason6
+	MoreCrosshairs-UpArrow
+	NumberedHotbar

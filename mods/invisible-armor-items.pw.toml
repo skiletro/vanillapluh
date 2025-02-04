@@ -1,0 +1,13 @@
+name = "Invisible Armor Items"
+filename = "invisiblearmor-1.20.1-v0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ouZujiu4/versions/5jtleBdP/invisiblearmor-1.20.1-v0.2.jar"
+hash-format = "sha512"
+hash = "23d907ce7aa2fd5339505ffbc723e9f315b57a0757e791ab678b1c9565972ac88426ce025457ddb95d5157f878811b81ddef596d2e00757d5a8edd303f2305d6"
+
+[update]
+[update.modrinth]
+mod-id = "ouZujiu4"
+version = "5jtleBdP"

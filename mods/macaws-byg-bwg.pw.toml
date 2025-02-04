@@ -1,0 +1,13 @@
+name = "Macaw's Oh The Biomes You'll Go / We've Gone"
+filename = "macawsbridgesbyg-fabric-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s4B19O5h/versions/XfQHb2pN/macawsbridgesbyg-fabric-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "ba4f136a4d41adfe74ac2e419f148945f6f6e8265baa84dbd5a17093b27e403c126241383cee24787ad9b0e3bd7d6f5405a1246f9dffe6388284ae7dc7993acf"
+
+[update]
+[update.modrinth]
+mod-id = "s4B19O5h"
+version = "XfQHb2pN"
