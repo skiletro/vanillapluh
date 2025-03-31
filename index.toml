@@ -252,6 +252,11 @@ hash = "0743031d2dbaebdf7e3c18cd1ef493a40c8b48ce534342f48e4764c49ad9ff4f"
 metafile = true
 
 [[files]]
+file = "mods/addonslib.pw.toml"
+hash = "e27f6d9b00b5b4eafed7cc12a46e3bf11f75528966d6b4bd150184c2ca78265e"
+metafile = true
+
+[[files]]
 file = "mods/allow-portal-guis.pw.toml"
 hash = "f32ef43a8b795217612fea8f8e2d87f7ed0c85d9a726e564c6286ad4135d2a83"
 metafile = true
@@ -352,6 +357,11 @@ hash = "db7e0d802d7a750a71b9ef49e53f7b8b0e0848fedc7ccbb34688fc2ccfdac9c5"
 metafile = true
 
 [[files]]
+file = "mods/carpeted-stairs.pw.toml"
+hash = "460be50e1f4641ba186ec798764d13410e477e11ca86891b4a996f26a1fdb3f5"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "c1079c786922de32eb7603ae24653090beccae44286f96790bf7729fd5f33764"
 metafile = true
@@ -439,11 +449,6 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
-metafile = true
-
-[[files]]
-file = "mods/create-broken-bad-fabric.pw.toml"
-hash = "db58b17dff09a4f34355a7c39dc8a20cf5cf704b7bc0dd36a25372b784842bbb"
 metafile = true
 
 [[files]]
@@ -619,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "c32425f1ca9b39d517d5f66ef8aacf5e67763c9972ca196269f610e996462df9"
 metafile = true
 
 [[files]]
@@ -817,6 +827,11 @@ hash = "62a52fffcc4b1a84d176ee33a16f39625bde634c95e63675fa7a5cd4d6fc5199"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-wildernature.pw.toml"
+hash = "177d0837c0b58059b61cd57eda6026cba99b316cc465dff02675c21f87d3a5fd"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
@@ -833,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-byg-bwg.pw.toml"
-hash = "fad2c1c47396074ca1f62ea6c505f940b3d0266f35261db6c64f771e6d1b5c3a"
+hash = "1b69b5c5e9589e61bc83311b05f50da0232eebe9a06cb5e99da2ca45eb048e28"
 metafile = true
 
 [[files]]
@@ -843,22 +858,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "d95805b2e266b56154ce0dc4b46710b7e3d6836613ceb1168894fdce417fcd53"
-metafile = true
-
-[[files]]
-file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
-hash = "e446ea7d640b0c0c4965037b4432594b04271779a53a50b1e1292bc40b45f1fe"
+hash = "138d998816672a15b1de2405078654d64eeb4ccce7e226a78dec9f76940ad80f"
 metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "2119cbbefc4cddc7dcd10e3b8e3bcfde462242aa8383f62d4218ffd14d3ce7e7"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furnitures-oh-the-biomes-youll-go.pw.toml"
-hash = "3be48430abda695f0bdd4a342dcf4cbe66e725157bb0ea1585e942b97866919b"
 metafile = true
 
 [[files]]
@@ -873,12 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "34119d9aae0559eabc99f306ee3cdd19fa67b3ba7ec625c55b5982c7e957f694"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs-oh-the-biomes-youll-go.pw.toml"
-hash = "792b5a988f23181aeb767db17724f793956c3fc9e0ee5804d993d318daafe5f6"
+hash = "a21ed48b2fc7983115b1ec094e1ca6492bd2852bdbd79585b2be65c1a206a010"
 metafile = true
 
 [[files]]
@@ -938,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cb80c39357e4cff35667ad5e1d12452c60f4ae42d7c585d2ca53689ea8246558"
+hash = "faf1703e9b3fd77a28f85c6cec48a243abcd9116b0d4e93219b52308a351f5c0"
 metafile = true
 
 [[files]]
@@ -1094,6 +1094,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "2d5e535231c2f4ab7412a074f66ccf13aadf15dfd34644e0c46ff038a7333df5"
 metafile = true
 
 [[files]]
