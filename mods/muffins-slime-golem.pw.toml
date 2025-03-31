@@ -1,0 +1,13 @@
+name = "Muffin's Slime Golem"
+filename = "muffins-slimegolem-1.20.1-1.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hI3Tmydh/versions/Cu069Zml/muffins-slimegolem-1.20.1-1.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "5d725dc7526050ffd9135ca1fad58649bbffd938d55de33f72f2f9e8809d63f520cc54d5c5f7e5e0bb6671abd1b8ca04d64235200e451c2dc028a93428def254"
+
+[update]
+[update.modrinth]
+mod-id = "hI3Tmydh"
+version = "Cu069Zml"

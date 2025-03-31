@@ -1,0 +1,13 @@
+name = "Paxels (Fabric)"
+filename = "paxels-0.0.3.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eHG03TlD/versions/s27CsmJG/paxels-0.0.3.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "9336b48736e648d4fb85001fd41ddbc05054f32d8b7ec13db2faed94dc08cda78f3d16264ad2c44548fc537c84594f85729b1e1d0f1570455bab1deab88bf415"
+
+[update]
+[update.modrinth]
+mod-id = "eHG03TlD"
+version = "s27CsmJG"
