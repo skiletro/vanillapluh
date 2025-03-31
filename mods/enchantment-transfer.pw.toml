@@ -1,0 +1,13 @@
+name = "Enchantment Transfer"
+filename = "enchantment-transfer-0.0.6-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VLBJHtK0/versions/FL3LK1x8/enchantment-transfer-0.0.6-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "741de0ba1efb2a8be31e25bc731b15e921553091151d1b3b25b0abcd95b2e90bb7051880fafe11a335ee75be2283b3911ee672121a0b789d544716f2d3ee822c"
+
+[update]
+[update.modrinth]
+mod-id = "VLBJHtK0"
+version = "FL3LK1x8"
