@@ -1,0 +1,13 @@
+name = "Schpeedy Boats"
+filename = "schpeedy-boats-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L4FuY3Du/versions/yLWi17x5/schpeedy-boats-0.0.3.jar"
+hash-format = "sha512"
+hash = "1bf85ac69fcc24bd440435267a476cc99fb2db9d508451f998f1d52de18d3cc23ec618a1ffc67a3ccbeaa0856dff58e7d1b236a30b64c261d8a411002d1c9bf5"
+
+[update]
+[update.modrinth]
+mod-id = "L4FuY3Du"
+version = "yLWi17x5"

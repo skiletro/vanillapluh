@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","continuity:glass_pane_culling_fix","$polymer-resources","file/default"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","continuity:glass_pane_culling_fix","file/default"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -122,19 +122,15 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.ad_astra.toggle_suit_flight:key.keyboard.v
-key_key.ad_astra.open_radio:key.keyboard.r
+key_key.ad_astra.open_radio:key.keyboard.unknown
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.crawl:key.mouse.5
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.ponder:key.keyboard.w
-key_key.deeperdarker.boost:key.keyboard.b
+key_key.deeperdarker.boost:key.keyboard.unknown
 key_key.deeperdarker.transmit:key.keyboard.v
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.freecam.toggle:key.keyboard.f4
-key_key.freecam.playerControl:key.keyboard.unknown
-key_key.freecam.tripodReset:key.keyboard.unknown
-key_key.freecam.configGui:key.keyboard.unknown
 key_key.immersive_aircraft.multi_control_left:key.keyboard.a
 key_key.immersive_aircraft.multi_control_right:key.keyboard.d
 key_key.immersive_aircraft.multi_control_forward:key.keyboard.w
@@ -145,7 +141,7 @@ key_key.immersive_aircraft.multi_control_pull:key.keyboard.s
 key_key.immersive_aircraft.multi_control_push:key.keyboard.w
 key_key.immersive_aircraft.multi_use:key.mouse.right
 key_key.immersive_aircraft.dismount:key.keyboard.r
-key_key.immersive_aircraft.boost:key.keyboard.b
+key_key.immersive_aircraft.boost:key.keyboard.g
 key_key.inmis.open_backpack:key.keyboard.b
 key_key.jei.toggleOverlay:key.keyboard.unknown
 key_key.jei.focusSearch:key.keyboard.unknown
@@ -198,7 +194,7 @@ key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat:key.keyboard.x
 key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.waila.config:key.keyboard.unknown

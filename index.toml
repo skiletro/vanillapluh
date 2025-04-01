@@ -49,10 +49,6 @@ file = "config/drippyloadingscreen/options.txt"
 hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
 
 [[files]]
-file = "config/emi.css"
-hash = "1ad184a4818edccd0b32dcedd81174ec386d86daccf5c9dc2483c247101a1976"
-
-[[files]]
 file = "config/fancymenu/assets/logo.png"
 hash = "bcfad4bbe8252f0d4adae76b9e4593b0bb5e6d85056007092b5a7373ca7ee388"
 
@@ -226,7 +222,7 @@ hash = "b1b91e56109b0094610fae5accb137180ff3a9afeb6fa7d49eab5e213bcb3722"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "3ed8b4b3c02136fcb9977a267bfe034879c0e8c6292f0448a783a80c7889c890"
+hash = "8d4a95319093818fdb3a64e53ed058fba7f72622bbad4d872152c2a4ee318d2c"
 
 [[files]]
 file = "mods/3d-placeable-food.pw.toml"
@@ -333,11 +329,6 @@ hash = "6447d9f9933ee9085520af83a0d85d2a46e2e8691173df443feebdcb0d893aba"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
@@ -435,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
@@ -574,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "187517b83015b5f421534643fc42586145c2ce6a6cd8b753d33d5c86b23ee6d9"
+hash = "aecba23ed8a7fe93fda92b64d9017ff3a5439767f5579b94b1ae4e7bf4efb088"
 metafile = true
 
 [[files]]
@@ -600,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "3adbd90351458dbb20a0c1a4bf6c7eda081782eacb5252a863cff3dea6cfc7c0"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "f9109bb1aae21525af8da7ed9d062b5a9c3f32a520a4fb5816847e051b64dd34"
 metafile = true
 
 [[files]]
@@ -808,8 +809,18 @@ hash = "e362643ab54578faccfe1837a2499ea856d599feeae582d370f40607d44efe4f"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "fdd5bb8db6166ec641236cffa0a6a098387ecc6921474ebc56225ca1704b3de9"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
+metafile = true
+
+[[files]]
+file = "mods/keybind-fix-updated.pw.toml"
+hash = "46930b6d443f2abe74fb60a2e726e85316b00367a5766a62044ebf0be00e43e3"
 metafile = true
 
 [[files]]
@@ -835,6 +846,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
 hash = "e184bea6c376d34b3df9271852bd0bd424f6dbe1f8d64832d4a5ac8c28e2d4f1"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-emi-compat.pw.toml"
+hash = "31f0333aaa5f4f44e5ca3fbc84e102bff96069d3d6b5dc77ac2dfdc8452ab007"
 metafile = true
 
 [[files]]
@@ -1098,6 +1114,16 @@ hash = "69c93a9cc5b36e2075bf52176b5f6f57613e301b0a660272316219d99d5b844e"
 metafile = true
 
 [[files]]
+file = "mods/schpeedy-boats.pw.toml"
+hash = "7b72a901a045e6fbf5c0117b7e0423cad84c631a08f84cba554da20bca3d8f5e"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "539f2968d3ddc434abc40c12becaea92bea9f9373b27bd7ff75b67938a56a552"
 metafile = true
@@ -1105,6 +1131,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ce99f1de3591cde7ff20a2edfcd75f36d85c364ca5e169cbd92c4d9cff65e840"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "b1dd6ac8ea2df432d01c0c2f93634f96d5e7b15439c41f0d8b050bca8714bace"
 metafile = true
 
 [[files]]
@@ -1149,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "14c6162a4fdd63a6cf70a60f3460f6d5ca07662c43e533ab974285cd9ab67703"
+hash = "d66cc1a0167b220d8421b40858db56a5049e433d97403f7e2d51d07225822db1"
 metafile = true
 
 [[files]]
