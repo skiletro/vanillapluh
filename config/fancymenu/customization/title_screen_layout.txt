@@ -59,7 +59,7 @@ element {
 
 element {
   interactable = true
-  source = Minecraft VanillaPluh v2.0.0
+  source = Minecraft VanillaPluh v2.1.0
   source_mode = direct
   shadow = true
   scale = 1.0

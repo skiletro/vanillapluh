@@ -1,12 +1,12 @@
 name = "VanillaPluh"
 author = "Skiletro"
-version = "2.0.0"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2200a7d878cfd8d8f1e81fb8be950a60c0ddfafc1a979684e7b7db9deb23350b"
+hash = "84594a3e344b7bf0c6f42086d790ae627b281a913e3adc397134a35e20f2cc0b"
 
 [versions]
 fabric = "0.16.10"

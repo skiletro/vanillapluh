@@ -1,0 +1,13 @@
+name = "Lootr Compatibility: BetterEnd"
+filename = "Lootr-BetterEnd-Compatibility-1.20-and-earlier.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25f0dcc6445af41ab3829372ae92d1f3ed83ddaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6177124
+project-id = 1154866

@@ -1,0 +1,13 @@
+name = "Damage Numbers"
+filename = "damagenumbers-1.4.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWdXs2dQ/versions/xpk8YOKG/damagenumbers-1.4.0-fabric.jar"
+hash-format = "sha512"
+hash = "ada9adf09d17508f66a4b790b8afaba126bb013645b9cd04595887cfe69a9e68787bd5302c73f70b60f4d27ca327903dbf1595cfdd71d19f939d6c5c1bf1763e"
+
+[update]
+[update.modrinth]
+mod-id = "iWdXs2dQ"
+version = "xpk8YOKG"

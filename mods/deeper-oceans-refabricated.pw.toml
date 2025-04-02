@@ -1,0 +1,13 @@
+name = "Deeper Oceans: Refabricated"
+filename = "deeper-oceans-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/W98ZKtWD/versions/BW5Wezz5/deeper-oceans-1.0.1.jar"
+hash-format = "sha512"
+hash = "a9230fe8f41f152167640655bd23728485c947afa7203e8c6a051e7ca3628a73d7256b4e51bfcab8fc9d93ebdeb807ceaa018d3b3fc79701b7e6e41e12e54fcd"
+
+[update]
+[update.modrinth]
+mod-id = "W98ZKtWD"
+version = "BW5Wezz5"

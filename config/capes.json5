@@ -1,6 +1,6 @@
 {
   "clientCapeType": "CLOAKSPLUS",
-  "enableOptifine": true,
+  "enableOptifine": false,
   "enableLabyMod": false,
   "enableWynntils": false,
   "enableMinecraftCapesMod": false,

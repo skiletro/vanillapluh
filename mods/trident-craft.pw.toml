@@ -1,0 +1,13 @@
+name = "Trident Craft"
+filename = "trident-craft-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gna7VCD1/versions/i6kbfrlM/trident-craft-1.jar"
+hash-format = "sha512"
+hash = "18f1abd552d4acc01a3e9da50f514061e45fa512744cf854ac08e46b8e2f6d16d2ca1780a12c5c1fcbc1f62f704f7ca54524cae49fffa092b56be98aeef721a1"
+
+[update]
+[update.modrinth]
+mod-id = "gna7VCD1"
+version = "i6kbfrlM"
