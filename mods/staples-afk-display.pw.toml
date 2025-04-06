@@ -1,0 +1,13 @@
+name = "Staple's AFK Display"
+filename = "staples-afk-display-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qVfvmIwi/versions/9WTfH6Xp/staples-afk-display-1.1.jar"
+hash-format = "sha512"
+hash = "1e841e6d4d535e2a94cca8404ddf35b729135b0337d5ae108d02d1c58f654f92832721e26fa769c9de46e410d94de628f20edc9046ca3f482d299a15baf86288"
+
+[update]
+[update.modrinth]
+mod-id = "qVfvmIwi"
+version = "9WTfH6Xp"

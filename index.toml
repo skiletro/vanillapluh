@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "22775fb477c55d3f55ad20ee27094a2c9f4711039d42be867a7ee2d8b70b3708"
+hash = "2227d1a2d353d7e661ee90694c420fe3383059bc3585324d4e1d54fd7c1af2dc"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -82,7 +82,7 @@ hash = "5d3124259e1d84d44a0b6a8162c2b3c7e4e296af511c6ab61d9f9660d69b15d0"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "4b652c75fe1473bb2223d27dce09507b081de8826692b719141d9805f05bf1a1"
+hash = "7f385380fe86fe86bdf3dc543b570beb0dd4f857cecd98936632a26230b6c006"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -155,11 +155,11 @@ hash = "df64b9e319b724bcc7a0b5af2602afce22d376a721bd830440f85c5401169eb4"
 
 [[files]]
 file = "config/updateme.json"
-hash = "79491e584e76fa27ba0f3f42d8206c2cba097284d6cca8458c68034d70eed703"
+hash = "8443f9378edf4204d554ff458662e74f967bd8ba495cc8f02d69c5e2a3b156bb"
 
 [[files]]
 file = "config/veinmining-common.toml"
-hash = "5e45dcf8c8d929e3ac98c64b923823e91e3b79485de2acb9ecd3b6ff27eca487"
+hash = "a06e59401a2f2440376ceba9a7b1069aee920e2cb2b534b1de9d365658495793"
 
 [[files]]
 file = "config/waila/blacklist.json5"
@@ -210,12 +210,24 @@ file = "config/wifmga.json5"
 hash = "d9ec65192ebe2d01d8ade3853c5153256090e3d9bca1b8356e0867e50f21420f"
 
 [[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "72d4923b5969644217fdb5203b97a42948ec8d3e4b1e6bfa441560a8b49eca1f"
+
+[[files]]
 file = "config/yosbr/config/emi.css"
 hash = "1ad184a4818edccd0b32dcedd81174ec386d86daccf5c9dc2483c247101a1976"
 
 [[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "b0d53ab3787d37009b1c66608947120518ad0417a94ce54c6cb41f9c61b0d7cf"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3e95a6e59cc94b1048390cdf43b0f02f810c458bb267510c4193115350d1cbef"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "3661f0c226ac838c41f86a60dbd2e9ee37a86b6e7e899dbea6147c17ebe85f9c"
+hash = "d212c0365661214f1e20f018cbe3a920ec16000840dfb83828da64bc40cfaf22"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap-common.txt"
@@ -247,7 +259,15 @@ hash = "8d4a95319093818fdb3a64e53ed058fba7f72622bbad4d872152c2a4ee318d2c"
 
 [[files]]
 file = "current_version.txt"
-hash = "c89b87c262e9d5ffd20e73aac74a1772adcc9f5a21682cc33adcf5086e5fef5c"
+hash = "c4a2383a03bdb6739d16a0e24058e4b9c7da4e63d203e0be2f448868cc03c530"
+
+[[files]]
+file = "kubejs/server_scripts/addRecipes.js"
+hash = "3452391e488768fa6a262cd52f5750e7416d10829a2877db9be27d71fad56944"
+
+[[files]]
+file = "kubejs/server_scripts/giveRespawnWine.js"
+hash = "c0431d60935262c067818df6f0d36faeaca80c7a59f6acbf80fe2c59a0ffb61f"
 
 [[files]]
 file = "mods/3d-placeable-food.pw.toml"
@@ -258,6 +278,10 @@ metafile = true
 file = "mods/3dskinlayers.pw.toml"
 hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
+
+[[files]]
+file = "mods/Estrogen-4.3.3b+1.20.1-fabric-removedthighhigh.jar"
+hash = "50ab6d456148594641ba13457c3c924ea67d7f96b7fd6ef34e86cc66609cec45"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -571,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeper-oceans-refabricated.pw.toml"
-hash = "3cc87d3f865c62a1f9d5a8ffaffc8caf86fe3c2a8bf255d9e77d4aba30c141a2"
+hash = "d1b00a07eac22e7ffe0f73fb90ee7e0314d8e10db4d4742b73e06a76fcb73bb5"
 metafile = true
 
 [[files]]
@@ -850,6 +874,11 @@ hash = "9f85ee9a48da4ead32ea56a7ea064a7002a406d1d87130ca60a41610285afa2b"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-speed.pw.toml"
+hash = "56b2bcccd1ff9eddb0002deaf0cc553fab212fdcaa9715ebda3f975b23289cb8"
+metafile = true
+
+[[files]]
 file = "mods/just-hammers.pw.toml"
 hash = "1939889ce0f89529253d5a699e002443d28c63f3942376b274fe4acd379eeba5"
 metafile = true
@@ -885,8 +914,8 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
+file = "mods/kubejs.pw.toml"
+hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
@@ -1007,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "f40488b90039380bde4615baca056eaec3afb62defccd7301a15af1c602970c3"
 metafile = true
 
 [[files]]
@@ -1175,8 +1209,18 @@ hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "69c93a9cc5b36e2075bf52176b5f6f57613e301b0a660272316219d99d5b844e"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "1187343aa841668df480b95c643936686c12ba1906edc47e24d92c091d60401b"
 metafile = true
 
 [[files]]
@@ -1210,6 +1254,11 @@ hash = "b1dd6ac8ea2df432d01c0c2f93634f96d5e7b15439c41f0d8b050bca8714bace"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "83cf89128bfc6d4a5d1da20565e461f89183127d5960935c1f783ba38b0cb53c"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extras.pw.toml"
 hash = "4a00b722b443dd9a833c1941d0cb3457745c6b7d35df9ac4d2c0987d856b8f0c"
 metafile = true
@@ -1217,6 +1266,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "19eeb8e2d15198628ae414184131017d7b91fa322abef285eccefa573754e3d2"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-mod-compat.pw.toml"
+hash = "bdc4320fb598b7d589c54ae46d3f45785bc2fa355a8c39f0a28a90c0be550b31"
 metafile = true
 
 [[files]]
@@ -1235,6 +1289,11 @@ hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
 metafile = true
 
 [[files]]
+file = "mods/staples-afk-display.pw.toml"
+hash = "02903fe87d8a14742d9b081d495d25495574021700d75733eb97e6ccd1d28e0d"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
@@ -1246,7 +1305,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "0714532ce3dc614172e9dcbafbfb0f1a2321f3e49c9ec97d3d701dafb6f9029d"
+hash = "dfe10ee932788fe0ec75f9ff84fd29c9fe95edec838e260a70eb96362ced1a52"
 metafile = true
 
 [[files]]
@@ -1262,6 +1321,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "d66cc1a0167b220d8421b40858db56a5049e433d97403f7e2d51d07225822db1"
+metafile = true
+
+[[files]]
+file = "mods/sync-fabric-reported.pw.toml"
+hash = "ec7de2254acc0a2dbfd5cde48a991fa0446e89336e9d469f4e996d0c963fa8f2"
 metafile = true
 
 [[files]]
@@ -1295,6 +1359,16 @@ hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "aaa4777fa08ae6054753e654effa299f31252499709838b87a99cbea56bcee3e"
+metafile = true
+
+[[files]]
+file = "mods/update-me.pw.toml"
+hash = "3e81302dd9f694180ef1a2054403871df13543cab23d0192ada94fed7fdd37c6"
+metafile = true
+
+[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "c95bcf2a24250de6b9abceb73777a4e1e3f2c5af157176c371f6ed84d067b987"
 metafile = true
@@ -1317,6 +1391,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "ffb2cfcb24ac65c753f6b877b7b6c67cddf56055cc7585faedd5e7b96b64c392"
+metafile = true
+
+[[files]]
+file = "mods/where-items-owo.pw.toml"
+hash = "8464f1d200c7c60d699d17475fb855c0ab09ed4ac985081ea0ddc2fc5185a3af"
 metafile = true
 
 [[files]]
@@ -1533,6 +1612,22 @@ hash = "58400e74210a14affa51e67df5ad661fbea58eea0d1f1da6f074586b1a10e619"
 [[files]]
 file = "resourcepacks/default/assets/bluemojis/emojis/blueyawn.png"
 hash = "500ccf4a4adcc10d5f5dc3d01f6d1b64ed7625e60e37c35ad39f5aabcbe0c05b"
+
+[[files]]
+file = "resourcepacks/default/assets/coffins/textures/block/coffin_bottom.png"
+hash = "8e4150166946eac1345c4293167ce2245a4901d88d0b21201de278b7c89de8eb"
+
+[[files]]
+file = "resourcepacks/default/assets/coffins/textures/block/coffin_side.png"
+hash = "6f79ec157b01c879f2cfd8ca8b22eca2bdb7330dc6ea68e1ee20da846928f526"
+
+[[files]]
+file = "resourcepacks/default/assets/coffins/textures/block/coffin_top.png"
+hash = "784b3bf6eec5d816e52d9ae2b27d9dce44d505b9997278ef0971c4b5db3506b9"
+
+[[files]]
+file = "resourcepacks/default/assets/coffins/textures/block/coffin_top_open.png"
+hash = "2c7ee53bdaaec0d7b8623150ea3fac1010b04259b9c59a0f55cae3c2eebcf70f"
 
 [[files]]
 file = "resourcepacks/default/assets/dsrmojis/emojis/hollow.png"

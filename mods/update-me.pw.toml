@@ -1,0 +1,13 @@
+name = "Update ME!"
+filename = "UpdateMe-2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9xIIYjBA/versions/WRX0IaCt/UpdateMe-2.0.jar"
+hash-format = "sha512"
+hash = "dc2a6b9cf36cc877e6e9b28d2ed4e9479ff90c680448a5ca6377aad96347a94f12d3afb9a23e19f03a0fcae484a92610c2db271b091fa4ccbd7f22d2e030b9a6"
+
+[update]
+[update.modrinth]
+mod-id = "9xIIYjBA"
+version = "WRX0IaCt"

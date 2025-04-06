@@ -1,0 +1,13 @@
+name = "Just Enough Speed"
+filename = "justenoughspeed-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2FrExR96/versions/924dBADH/justenoughspeed-1.0.0.jar"
+hash-format = "sha512"
+hash = "ad7a837eacca8cc2da99bf53742b4f8fc7e653cff85cfb6dfaf0ecdea1ff71ab9b754b48064cb6179e558a2e9f7f36410d26aab2496a05ec9600c596c29db267"
+
+[update]
+[update.modrinth]
+mod-id = "2FrExR96"
+version = "924dBADH"
