@@ -1,6 +1,7 @@
 name = "Drippy Loading Screen"
 filename = "drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/9x0lKayP/drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar"

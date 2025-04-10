@@ -1,4 +1,16 @@
 {
+  megane: {
+    // Show Schematicannon Gunpowder Level
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "create.schematicannon.gunpowder": false,
+    // Show Contraption Blocks
+    // Show the correct blocks for the contraption entity
+    // Only limited block tooltips are supported
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    "create.contraption": true
+  },
   waila: {
     // Show Blocks
     // Default value: [true]

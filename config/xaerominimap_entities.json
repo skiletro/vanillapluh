@@ -5,7 +5,8 @@
   "excludeMode": "ONLY",
   "excludeList": [
     "minecraft:glow_item_frame",
-    "minecraft:item_frame"
+    "minecraft:item_frame",
+    "create:super_glue"
   ],
   "name": "gui.xaero_entity_category_root",
   "protection": true,
@@ -15,9 +16,9 @@
     "heightBasedFade": true,
     "renderOrder": 0.0,
     "color": 13.0,
-    "displayNameWhenIconFails": true,
+    "displayNameWhenIconFails": false,
     "entityNumber": 1000.0,
-    "alwaysDisplayNametags": false,
+    "alwaysDisplayNametags": true,
     "startFadingAt": 0.0,
     "dotSize": 2.0,
     "renderOverMinimapFrame": 1.0,

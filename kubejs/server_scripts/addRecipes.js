@@ -45,6 +45,31 @@ ServerEvents.recipes(e => {
     ]
   )
 
+  // Phantom membranes
+  e.shapeless(
+    Item.of("minecraft:phantom_membrane", 1),
+    [
+      "minecraft:diamond",
+      "minecraft:feather"
+    ]
+  )
+
+  // Creative blaze cakes
+  e.shapeless(
+    Item.of("create:creative_blaze_cake", 1),
+    [
+      "create:blaze_cake",
+      "create:blaze_cake",
+      "create:blaze_cake",
+      "minecraft:nether_star",
+      "minecraft:nether_star",
+      "minecraft:nether_star",
+      "deeperdarker:heart_of_the_deep",
+      "deeperdarker:heart_of_the_deep",
+      "deeperdarker:heart_of_the_deep"
+    ]
+  )
+
   // Every other hat
   const hats = [
     "givemehats:bowler_hat",
@@ -82,6 +107,8 @@ ServerEvents.recipes(e => {
       e.stonecutting(item, item2)
     })
   })
+
+  e.stonecutting("minecraft:diamond", "kubejs:unrefined_diamond")
 
   // Sync Core
   // Require the player to use a nether star instead of an ender pearl

@@ -1,13 +1,13 @@
 name = "Text Utilities"
-filename = "text-utilities-fabric-1.7.0+1.20.1.jar"
-side = "client"
+filename = "text-utilities-fabric-1.7.2+1.20.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bHGioWI/versions/A40kPQqv/text-utilities-fabric-1.7.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/1bHGioWI/versions/BGVlxplj/text-utilities-fabric-1.7.2%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "bf5b176754cec8558ad6c834b2209018eddb7edc709c95ac05c1f5c8e153f3ae5d12d918575dc1bc6317a33be81f82fc301b2e73a2c5a1ac2eb1bb8f6c48f730"
+hash = "0c402f3218761846aae5964d42de6a376032e473cd6d461bac705002061b2254555f02c290ba785d5f06308ac2fe3725319c5963291ca1c37bd6d408f7a06bbb"
 
 [update]
 [update.modrinth]
 mod-id = "1bHGioWI"
-version = "A40kPQqv"
+version = "BGVlxplj"

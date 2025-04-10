@@ -121,6 +121,7 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.estrogen.dash:key.keyboard.z
 key_key.ad_astra.toggle_suit_flight:key.keyboard.v
 key_key.ad_astra.open_radio:key.keyboard.unknown
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
