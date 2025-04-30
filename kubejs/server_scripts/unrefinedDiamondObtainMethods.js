@@ -1,4 +1,4 @@
-LootJS.modifiers(e => {
+LootJS.modifiers(event => {
   let blocks = [
     "minecraft:diamond_ore",
     "minecraft:deepslate_diamond_ore",
@@ -9,6 +9,10 @@ LootJS.modifiers(e => {
   ]
 
   blocks.forEach(block => {
-    e.addBlockLootModifier(block).replaceLoot("minecraft:diamond", "kubejs:unrefined_diamond")
+    event.addBlockLootModifier(block).replaceLoot("minecraft:diamond", "kubejs:unrefined_diamond")
   })
+})
+
+ServerEvents.recipes(event => {
+  event.stonecutting("minecraft:diamond", "kubejs:unrefined_diamond")
 })

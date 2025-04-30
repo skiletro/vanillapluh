@@ -1,0 +1,13 @@
+name = "RuOK"
+filename = "RuOK-1.7.1_1.20.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aTsegPV0/versions/GIpyUaeI/RuOK-1.7.1_1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "6e5ca784a4e3581cd0df397b38469501780641c8d229bc68d0522adf722de6925cefec1af8494e32a4dec1ef2c9e8beae2d8c6a2d7210dda4b45a49565cd93ea"
+
+[update]
+[update.modrinth]
+mod-id = "aTsegPV0"
+version = "GIpyUaeI"

@@ -1,0 +1,13 @@
+name = "Create: Bigger Storage"
+filename = "Create-Better-Storages-Fabric-1.20.1-1.0b.Release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6TmBmVOK/versions/l8L0yA05/Create-Better-Storages-Fabric-1.20.1-1.0b.Release.jar"
+hash-format = "sha512"
+hash = "1bd225be5d210a909c7a0966b3d2658e261658f97625328c44bb6fdf48fe4d4faacb4854c872c47194bf1cfb5eb291b0036853b1c3717813c3f169eeed492479"
+
+[update]
+[update.modrinth]
+mod-id = "6TmBmVOK"
+version = "l8L0yA05"

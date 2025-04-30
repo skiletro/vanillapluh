@@ -1,6 +1,16 @@
-ServerEvents.recipes(e => {
+function stonecutterHelper(event, itemArray) {
+  itemArray.forEach(item1 => {
+    itemArray.forEach(item2 => {
+      if (item1 != item2) {
+        event.stonecutting(item1, item2)
+      }
+    })
+  })
+}
+
+ServerEvents.recipes(event => {
   // Crimson Grape Seeds
-  e.shapeless(
+  event.shapeless(
     Item.of("nethervinery:crimson_grape_seeds", 1),
     [
       "minecraft:crimson_roots",
@@ -9,7 +19,7 @@ ServerEvents.recipes(e => {
   )
 
   // Warped Grape Seeds
-  e.shapeless(
+  event.shapeless(
     Item.of("nethervinery:warped_grape_seeds", 1),
     [
       "minecraft:warped_roots",
@@ -17,8 +27,11 @@ ServerEvents.recipes(e => {
     ]
   )
 
-  // Bowler Hat
-  e.shaped(
+  // ---
+  // Hats
+  // ---
+  // Create crafting recipe for the bowler hat
+  event.shaped(
     Item.of("givemehats:bowler_hat", 1),
     [
       "AAA",
@@ -31,46 +44,7 @@ ServerEvents.recipes(e => {
     }
   )
 
-  // Tomato Conversion
-  e.shapeless(
-    Item.of("bettermcdonaldsmod:tomato", 1),
-    [
-      "farm_and_charm:tomato"
-    ]
-  )
-  e.shapeless(
-    Item.of("farm_and_charm:tomato", 1),
-    [
-      "bettermcdonaldsmod:tomato"
-    ]
-  )
-
-  // Phantom membranes
-  e.shapeless(
-    Item.of("minecraft:phantom_membrane", 1),
-    [
-      "minecraft:diamond",
-      "minecraft:feather"
-    ]
-  )
-
-  // Creative blaze cakes
-  e.shapeless(
-    Item.of("create:creative_blaze_cake", 1),
-    [
-      "create:blaze_cake",
-      "create:blaze_cake",
-      "create:blaze_cake",
-      "minecraft:nether_star",
-      "minecraft:nether_star",
-      "minecraft:nether_star",
-      "deeperdarker:heart_of_the_deep",
-      "deeperdarker:heart_of_the_deep",
-      "deeperdarker:heart_of_the_deep"
-    ]
-  )
-
-  // Every other hat
+  // Then make it possible to use the stonecutter to get all of the other hats.
   const hats = [
     "givemehats:bowler_hat",
     "givemehats:bunny_ears",
@@ -101,20 +75,29 @@ ServerEvents.recipes(e => {
     "givemehats:hippie_vibes",
     "givemehats:halo"
   ];
-  
-  hats.forEach(item => {
-    hats.forEach(item2 => {
-      e.stonecutting(item, item2)
-    })
-  })
+  stonecutterHelper(event, hats)
 
-  e.stonecutting("minecraft:diamond", "kubejs:unrefined_diamond")
-
-  // Sync Core
-  // Require the player to use a nether star instead of an ender pearl
-  e.replaceInput(
-    { output: "sync:sync_core" },
-    "minecraft:ender_pearl",
-    "minecraft:nether_star"
+  // Creative Blaze Cakes
+  event.shapeless(
+    Item.of("create:creative_blaze_cake", 1),
+    [
+      "create:blaze_cake",
+      "create:blaze_cake",
+      "create:blaze_cake",
+      "minecraft:nether_star",
+      "minecraft:nether_star",
+      "minecraft:nether_star",
+      "deeperdarker:heart_of_the_deep",
+      "deeperdarker:heart_of_the_deep",
+      "deeperdarker:heart_of_the_deep"
+    ]
   )
+
+  // Shroom Blocks
+  const shrooms = [
+    "minecraft:brown_mushroom_block",
+    "minecraft:red_mushroom_block",
+    "minecraft:mushroom_stem"
+  ];
+  stonecutterHelper(event, shrooms)
 })

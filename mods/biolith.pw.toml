@@ -1,13 +1,13 @@
 name = "Biolith"
-filename = "biolith-1.0.0-beta.2.jar"
+filename = "biolith-1.0.0-beta.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/XcRnagd4/biolith-1.0.0-beta.2.jar"
+url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/p1OZUuDw/biolith-1.0.0-beta.3.jar"
 hash-format = "sha512"
-hash = "bd13be57041c6ab101e56d50533895837e1244e55f945a0abf6e26692655b8ee87721b8ceb607fb2c8a0597bfed3726ac912ecb9c859f72e73e582841e5335e8"
+hash = "8826baf6dc513dea8f57378ed30da89ee740daf666d748f7ea03570a23a6734f1222912e7f35d051c918ec1c163f25a1269ee64cf6963f620bc29978183af9d9"
 
 [update]
 [update.modrinth]
 mod-id = "iGEl6Crx"
-version = "XcRnagd4"
+version = "p1OZUuDw"

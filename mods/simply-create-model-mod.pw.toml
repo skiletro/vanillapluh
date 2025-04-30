@@ -1,0 +1,13 @@
+name = "[SCM] Simply Create Model Mod"
+filename = "Simply_Create_Model｜简单动力-mod-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4cnrKlAs/versions/iWEn53K3/Simply_Create_Model%EF%BD%9C%E7%AE%80%E5%8D%95%E5%8A%A8%E5%8A%9B-mod-1.0.0.jar"
+hash-format = "sha512"
+hash = "6fa8501526cb262439e2c18ccc3a1179b0bd23a71cf3ecc5a0a88ec8cc8787623b6b27e52cb5a263bac7792c0e120c9a8ca87dc7b71417b679f2179f322b6c01"
+
+[update]
+[update.modrinth]
+mod-id = "4cnrKlAs"
+version = "iWEn53K3"
