@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "d87504e4be38a1db03d33a142118e9bc7afcb037d9cd29eb3ad82ac6429a6f3a"
+hash = "5dc096ef80494ca06fe688947f943dadf1d8f9f9229409eb2d7ea42127bc09e0"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -86,7 +86,7 @@ hash = "5d3124259e1d84d44a0b6a8162c2b3c7e4e296af511c6ab61d9f9660d69b15d0"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "6d0379b69bbac5afd02b1115cd5b0fe635de3020926c0436f428091fb105592e"
+hash = "9fc20764d58c9f9dd08de013724976b53e12f25e397539bc73da6168b6d1f01f"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -171,7 +171,7 @@ hash = "df64b9e319b724bcc7a0b5af2602afce22d376a721bd830440f85c5401169eb4"
 
 [[files]]
 file = "config/updateme.json"
-hash = "05086624374fce272afc4d21622f15f3e27d70255693d9364fa5bf404ce49b12"
+hash = "cbd90d7e4af28da7085d033d0009f9b9eef6eefd78a28e84d15ce63057401eb8"
 
 [[files]]
 file = "config/veinmining-common.toml"
@@ -275,7 +275,7 @@ hash = "cc706f7db4e59834c0d3e567dd86b636db311e5ef41876ce5ea93bd551b97ad7"
 
 [[files]]
 file = "current_version.txt"
-hash = "2ad7b0c3f0ede58c3165b7a8a5479e890a758d39bfe8683eaef50ce6afad7232"
+hash = "6d850e3ac42d0dd06bfdcce9151c1e6b40f4cf5272778f63eececea27c78f0b6"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/unrefined_diamond.png"
@@ -546,11 +546,6 @@ hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
 metafile = true
 
 [[files]]
-file = "mods/create-bigger-storage.pw.toml"
-hash = "4645128a1fee92dcffe7c2d42bddee5cfe99c7529b7b83c248a11e11089f6bc8"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
@@ -603,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "d7c722f240180028329f6e5dd63fb9a066e27f7a7606a4bd4d278f46bb3034aa"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "064808462edac75a4165894f615a05011f027a9868d4922b232ea9a9177c0165"
 metafile = true
 
 [[files]]
@@ -1291,11 +1291,6 @@ hash = "69c93a9cc5b36e2075bf52176b5f6f57613e301b0a660272316219d99d5b844e"
 metafile = true
 
 [[files]]
-file = "mods/ruok.pw.toml"
-hash = "1962ff0ab1723df4a94e864bb321e2dc486f722a41a479ba849b6758a157fc8a"
-metafile = true
-
-[[files]]
 file = "mods/schpeedy-boats.pw.toml"
 hash = "7b72a901a045e6fbf5c0117b7e0423cad84c631a08f84cba554da20bca3d8f5e"
 metafile = true
@@ -1318,11 +1313,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "dc7cdb875b860056c1dcc88988e0ed17d0058d9127f897ffe058457f3daa888a"
-metafile = true
-
-[[files]]
-file = "mods/simply-create-model-mod.pw.toml"
-hash = "3e1135d720b3ba5a58484a99b83be3f9e08e02f33ce2b052982a0984a5f5bdd5"
 metafile = true
 
 [[files]]
