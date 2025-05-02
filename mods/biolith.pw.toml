@@ -1,6 +1,7 @@
 name = "Biolith"
 filename = "biolith-1.0.0-beta.3.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/p1OZUuDw/biolith-1.0.0-beta.3.jar"

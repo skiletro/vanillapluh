@@ -30,20 +30,6 @@ ServerEvents.recipes(event => {
   // ---
   // Hats
   // ---
-  // Create crafting recipe for the bowler hat
-  event.shaped(
-    Item.of("givemehats:bowler_hat", 1),
-    [
-      "AAA",
-      "ABA",
-      "B B"
-    ],
-    {
-      A: "minecraft:black_dye",
-      B: "minecraft:leather"
-    }
-  )
-
   // Then make it possible to use the stonecutter to get all of the other hats.
   const hats = [
     "givemehats:bowler_hat",
@@ -75,6 +61,22 @@ ServerEvents.recipes(event => {
     "givemehats:hippie_vibes",
     "givemehats:halo"
   ];
+
+  hats.forEach(hat => {
+    event.shaped(
+      Item.of(hat, 1),
+      [
+        "AAA",
+        "ABA",
+        "B B"
+      ],
+      {
+        A: "minecraft:black_dye",
+        B: "minecraft:leather"
+      }
+    )
+  })
+
   stonecutterHelper(event, hats)
 
   // Creative Blaze Cakes

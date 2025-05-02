@@ -1,13 +1,13 @@
 name = "Create: Enchantable Machinery"
-filename = "createenchantablemachinery-2.9.10-mc1.20.1-fabric.jar"
+filename = "createenchantablemachinery-2.9.11-mc1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eqrvp4NK/versions/sxRQNUtz/createenchantablemachinery-2.9.10-mc1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/eqrvp4NK/versions/PhOLS9Et/createenchantablemachinery-2.9.11-mc1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "4b48d8514e72c867a2b9e560b0b7449d978be17509c6285a8f46cd80bcff415098e52dbe30eaa288e5a12bb5be101debc45d0fa1d903fafcfb7449a5532dab3c"
+hash = "08fcbe3f7eafdbe5216bf71ebccace24b0270e888dc85490f8f2e91396a818fc73deb4da48a08ebd47f4efccb2b1dfcb0e357ae7d5ea45d52f62322b603110dc"
 
 [update]
 [update.modrinth]
 mod-id = "eqrvp4NK"
-version = "sxRQNUtz"
+version = "PhOLS9Et"
