@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "d83d15e489bb21604e8f1e8cd6ddbc6692afaafc2b9d03b87f69662940a66e8b"
+hash = "5986b5a0d26b211fa91b40242a12208631e756ee07956d273530235fbfb31cc7"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -86,7 +86,7 @@ hash = "5d3124259e1d84d44a0b6a8162c2b3c7e4e296af511c6ab61d9f9660d69b15d0"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "871bdc930f0cb04b2402377ccd76048410074db78f07e5e4b14fda7ada8166bc"
+hash = "eb623a7a53f768ab0f89c4bfba977b1f87db346a8eda3da90cfa56c0a5793d1b"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -171,7 +171,7 @@ hash = "df64b9e319b724bcc7a0b5af2602afce22d376a721bd830440f85c5401169eb4"
 
 [[files]]
 file = "config/updateme.json"
-hash = "93878eaf6342ef16fc5c9a9a7ce095baded264ec0e56494f08c91485a67c6627"
+hash = "3886f6653a723900d27e47e4ff653ccf867ca13955fe34f032ca94d8a4da6fa2"
 
 [[files]]
 file = "config/veinmining-common.toml"
@@ -275,7 +275,7 @@ hash = "cc706f7db4e59834c0d3e567dd86b636db311e5ef41876ce5ea93bd551b97ad7"
 
 [[files]]
 file = "current_version.txt"
-hash = "732f64d874f90788c0199b0c19bfd9b3b6436e140114e53e462832532d74c61c"
+hash = "6693435eadb673dda297a0652d241e293e361200bc40db949cf2501d18dd01ee"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/unrefined_diamond.png"
@@ -288,6 +288,10 @@ hash = "f7e222089e2a6ba89dd52a66c31eba6f7d6a79cdf4d9ed00b64e40e7bfb1e5c6"
 [[files]]
 file = "kubejs/server_scripts/batMembrane.js"
 hash = "0db8fa57f38f515c4f5f88b756bbdeaf7c01bd7ec020da500eb1f76e96091179"
+
+[[files]]
+file = "kubejs/server_scripts/removeCraftingInterface.js"
+hash = "ad92356019391919c71ab8c53a1c4ce3c507818c8a16ef55288d78986453b7b0"
 
 [[files]]
 file = "kubejs/server_scripts/tomatoFixer.js"
@@ -583,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/create-man-of-many-planes.pw.toml"
 hash = "05e9862287954ca4ff2f1a4b160f73ee43ea3573d90919de9a4202d54da93adb"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
 
 [[files]]
@@ -1072,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "ab63b7caab1ef9970c84fdba766390e2f8a89946a822edac5f45caa0fdcdf9cd"
+hash = "4a7a7460f802eaf18bb298e31c4925a38e5e649ff11b08c61a5f88c03b886749"
 metafile = true
 
 [[files]]
